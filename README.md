@@ -14,29 +14,13 @@ This app provides an integrated solution for women to access accurate and reliab
 
 ## Running the APP
 
-1. Clone this git repository
-```
-git clone https://github.com/tanishgoyal07/Wellness.git
-```
-2. Run this app using:
+1. Run this app using:
 ```
 flutter run
 ```
-
-## APK File
-[Download Here](https://github.com/madhavmehndiratta/WellnessByUs/blob/main/app-release.apk)
-
 ## Technologies Used
 - Flutter
 - Firebase
 - Google Maps API
 
-## Team Details:
-1. [Tanish Goyal](https://github.com/tanishgoyal07)
-2. [Pankaj Khushwaha](https://github.com/panka17)
-3. [Madhav Mehndiratta](https://github.com/madhavmehndiratta)
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
